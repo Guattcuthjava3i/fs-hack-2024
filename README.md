@@ -1,2 +1,1 @@
-# fs-hack-2024
-Mint Multi Auth
+# Whatever this is for the hack2024
